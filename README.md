@@ -56,7 +56,7 @@ Resources
 These endpoints each provide different sets of data. Since it is mimicking a
 RESTful API, sending a request to 'http://localhost:3000/dogs' will return all
 records in the database for dogs, while 'http://localhost:3000/dogs/1' will
-return the dog with the id of 1.
+<!-- return the dog with the id of 1. \ -->
 
 Some example data is already present, stored in `db.json`. If the JSON server is
 running, you can also visit any of the above resources in a browser to see the
